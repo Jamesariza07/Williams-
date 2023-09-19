@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    padding: 100px;
+    justify-content: center;
+    display: flex;
+    font-size: 100px;
+    font-family:monospace;
+    background-color: cornsilk;
+}
+p{
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    font-family: cursive;
+    background-color: darkslategrey;
+}
+body{
+    background-image: url();
+}
